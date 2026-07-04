@@ -16,9 +16,9 @@
 
 ### About Me
 
-- **Founding Software Development Intern @ Qavix** — building an **agentic QA system** that autonomously crawls web apps to find bugs & security vulnerabilities, then generates fixes and raises PRs.
-- I like **distributed, async backends** — Django Ninja, Celery, Redis-backed task queues, all containerized with Docker.
-- Exploring **applied AI & LLMs** — from wiring up OpenAI/Gemini APIs to implementing a GPT from scratch in PyTorch.
+- **Founding Software Development Intern @ Qavix**  building an **agentic QA system** that autonomously crawls web apps to find bugs & security vulnerabilities, then generates fixes and raises PRs.
+- I like **distributed, async backends**  Django Ninja, Celery, Redis-backed task queues, all containerized with Docker.
+- Exploring **applied AI & LLMs** from wiring up OpenAI/Gemini APIs to implementing a GPT from scratch in PyTorch.
 - B.Tech in Computer Science @ **Heritage Institute of Technology** · CGPA **9.05/10**.
 - 350+ LeetCode problems solved · WBJEE **AIR 3068** among 300k+ candidates.
 
