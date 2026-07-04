@@ -14,17 +14,17 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🔭 **Founding Software Development Intern @ Qavix** — building an **agentic QA system** that autonomously crawls web apps to find bugs & security vulnerabilities, then generates fixes and raises PRs.
-- ⚙️ I like **distributed, async backends** — Django Ninja, Celery, Redis-backed task queues, all containerized with Docker.
-- 🧠 Exploring **applied AI & LLMs** — from wiring up OpenAI/Gemini APIs to implementing a GPT from scratch in PyTorch.
-- 🎓 B.Tech in Computer Science @ **Heritage Institute of Technology** · CGPA **9.05/10**.
-- 🧩 350+ LeetCode problems solved · WBJEE **AIR 3068** among 300k+ candidates.
+- **Founding Software Development Intern @ Qavix** — building an **agentic QA system** that autonomously crawls web apps to find bugs & security vulnerabilities, then generates fixes and raises PRs.
+- I like **distributed, async backends** — Django Ninja, Celery, Redis-backed task queues, all containerized with Docker.
+- Exploring **applied AI & LLMs** — from wiring up OpenAI/Gemini APIs to implementing a GPT from scratch in PyTorch.
+- B.Tech in Computer Science @ **Heritage Institute of Technology** · CGPA **9.05/10**.
+- 350+ LeetCode problems solved · WBJEE **AIR 3068** among 300k+ candidates.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 <p>
@@ -70,21 +70,21 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| **🕷️ Celery PDF Extraction Pipeline** | Distributed, fault-tolerant PDF data-extraction pipeline with retry handling and concurrent worker scaling. | `Celery` `Redis` `Django Ninja` `Docker` |
-| **🧠 NanoGPT — Char-Level LM** | Bigram & Transformer models with multi-head self-attention + a custom tokenizer; generates 500+ Shakespeare-style tokens per run. | `PyTorch` `Python` |
-| **🛒 CyberLoot — E-Commerce for Tech** | Full-stack e-commerce web app for tech products, deployed for high availability. | `React` `Node.js` `PostgreSQL` `Supabase` |
+| **Celery PDF Extraction Pipeline** | Distributed, fault-tolerant PDF data-extraction pipeline with retry handling and concurrent worker scaling. | `Celery` `Redis` `Django Ninja` `Docker` |
+| **NanoGPT — Char-Level LM** | Bigram & Transformer models with multi-head self-attention + a custom tokenizer; generates 500+ Shakespeare-style tokens per run. | `PyTorch` `Python` |
+| **CyberLoot — E-Commerce for Tech** | Full-stack e-commerce web app for tech products, deployed for high availability. | `React` `Node.js` `PostgreSQL` `Supabase` |
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anubhaw0raj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhaw0raj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anubhaw0raj&theme=tokyonight">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anubhaw0raj&theme=tokyonight">
 </p>
 
 <p align="center">
