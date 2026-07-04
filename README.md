@@ -75,8 +75,8 @@
 | Project | Description | Stack |
 |---|---|---|
 | **Celery PDF Extraction Pipeline** | Distributed, fault-tolerant PDF data-extraction pipeline with retry handling and concurrent worker scaling. | `Celery` `Redis` `Django Ninja` `Docker` |
-| **NanoGPT — Char-Level LM** | Bigram & Transformer models with multi-head self-attention + a custom tokenizer; generates 500+ Shakespeare-style tokens per run. | `PyTorch` `Python` |
-| **CyberLoot — E-Commerce for Tech** | Full-stack e-commerce web app for tech products, deployed for high availability. | `React` `Node.js` `PostgreSQL` `Supabase` |
+| **NanoGPT - Char-Level LM** | Bigram & Transformer models with multi-head self-attention + a custom tokenizer; generates 500+ Shakespeare-style tokens per run. | `PyTorch` `Python` |
+| **CyberLoot - E-Commerce for Tech** | Full-stack e-commerce web app for tech products, deployed for high availability. | `React` `Node.js` `PostgreSQL` `Supabase` |
 
 ---
 
